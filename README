@@ -5,3 +5,4 @@ escape : q !
 This is neat
 Practice makes perfect
 git status; git add filename; git commit -m string
+If you have double > symbol use CTRL-C to exit and next time close your string
